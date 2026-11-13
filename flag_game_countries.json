@@ -1,0 +1,2178 @@
+[
+  {
+    "country": "Afghanistan",
+    "colors": [
+      "black",
+      "red",
+      "green",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Albania",
+    "colors": [
+      "red",
+      "black"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Algeria",
+    "colors": [
+      "green",
+      "white",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Andorra",
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Angola",
+    "colors": [
+      "red",
+      "black",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "colors": [
+      "red",
+      "black",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "continent": "North America",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Argentina",
+    "colors": [
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "continent": "South America",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Armenia",
+    "colors": [
+      "red",
+      "blue",
+      "orange"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Australia",
+    "colors": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "continent": "Oceania",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Austria",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Azerbaijan",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Bahamas",
+    "colors": [
+      "black",
+      "blue",
+      "yellow"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Bahrain",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Bangladesh",
+    "colors": [
+      "green",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Barbados",
+    "colors": [
+      "blue",
+      "yellow",
+      "black"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Belarus",
+    "colors": [
+      "red",
+      "green",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Belgium",
+    "colors": [
+      "black",
+      "yellow",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Belize",
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 2,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Benin",
+    "colors": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Bhutan",
+    "colors": [
+      "yellow",
+      "orange",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 2,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Bolivia",
+    "colors": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "continent": "South America",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "colors": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Botswana",
+    "colors": [
+      "blue",
+      "black",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Brazil",
+    "colors": [
+      "green",
+      "yellow",
+      "blue",
+      "white"
+    ],
+    "continent": "South America",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Brunei",
+    "colors": [
+      "yellow",
+      "white",
+      "black",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Bulgaria",
+    "colors": [
+      "white",
+      "green",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Burkina Faso",
+    "colors": [
+      "red",
+      "green",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Burundi",
+    "colors": [
+      "red",
+      "green",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Cabo Verde",
+    "colors": [
+      "blue",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Cambodia",
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Cameroon",
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Canada",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Central African Republic",
+    "colors": [
+      "blue",
+      "white",
+      "green",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Chad",
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Chile",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "South America",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "China",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Colombia",
+    "colors": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "continent": "South America",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Comoros",
+    "colors": [
+      "yellow",
+      "white",
+      "red",
+      "blue",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Costa Rica",
+    "colors": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "continent": "North America",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Croatia",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Cuba",
+    "colors": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "continent": "North America",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Cyprus",
+    "colors": [
+      "white",
+      "orange",
+      "green"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Czechia",
+    "colors": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "colors": [
+      "orange",
+      "white",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Denmark",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Djibouti",
+    "colors": [
+      "blue",
+      "green",
+      "white",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Dominica",
+    "colors": [
+      "green",
+      "yellow",
+      "black",
+      "white",
+      "red",
+      "purple"
+    ],
+    "continent": "North America",
+    "familiarity": 1,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Dominican Republic",
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Ecuador",
+    "colors": [
+      "yellow",
+      "blue",
+      "red"
+    ],
+    "continent": "South America",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Egypt",
+    "colors": [
+      "red",
+      "white",
+      "black",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "El Salvador",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Equatorial Guinea",
+    "colors": [
+      "green",
+      "white",
+      "red",
+      "blue"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Eritrea",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Estonia",
+    "colors": [
+      "blue",
+      "black",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Eswatini",
+    "colors": [
+      "blue",
+      "yellow",
+      "red",
+      "white",
+      "black"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Ethiopia",
+    "colors": [
+      "green",
+      "yellow",
+      "red",
+      "blue"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Fiji",
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 3,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Finland",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "France",
+    "colors": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Gabon",
+    "colors": [
+      "green",
+      "yellow",
+      "blue"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Gambia",
+    "colors": [
+      "red",
+      "blue",
+      "green",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Georgia",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Germany",
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Ghana",
+    "colors": [
+      "red",
+      "yellow",
+      "green",
+      "black"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Greece",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Grenada",
+    "colors": [
+      "red",
+      "green",
+      "yellow"
+    ],
+    "continent": "North America",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Guatemala",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Guinea",
+    "colors": [
+      "red",
+      "yellow",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Guinea-Bissau",
+    "colors": [
+      "red",
+      "yellow",
+      "green",
+      "black"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Guyana",
+    "colors": [
+      "green",
+      "yellow",
+      "red",
+      "black",
+      "white"
+    ],
+    "continent": "South America",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Haiti",
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 2,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Honduras",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Hungary",
+    "colors": [
+      "red",
+      "white",
+      "green"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Iceland",
+    "colors": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "India",
+    "colors": [
+      "orange",
+      "white",
+      "green",
+      "blue"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Indonesia",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Iran",
+    "colors": [
+      "green",
+      "white",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Iraq",
+    "colors": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Ireland",
+    "colors": [
+      "green",
+      "white",
+      "orange"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Israel",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Italy",
+    "colors": [
+      "green",
+      "white",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Jamaica",
+    "colors": [
+      "black",
+      "green",
+      "yellow"
+    ],
+    "continent": "North America",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Japan",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Jordan",
+    "colors": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Kazakhstan",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Kenya",
+    "colors": [
+      "black",
+      "red",
+      "green",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Kiribati",
+    "colors": [
+      "red",
+      "blue",
+      "white",
+      "yellow"
+    ],
+    "continent": "Oceania",
+    "familiarity": 1,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Kuwait",
+    "colors": [
+      "green",
+      "white",
+      "red",
+      "black"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Kyrgyzstan",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Laos",
+    "colors": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 2,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Latvia",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Lebanon",
+    "colors": [
+      "red",
+      "white",
+      "green"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Lesotho",
+    "colors": [
+      "blue",
+      "white",
+      "green",
+      "black"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Liberia",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Libya",
+    "colors": [
+      "red",
+      "black",
+      "green",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Liechtenstein",
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Lithuania",
+    "colors": [
+      "yellow",
+      "green",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Luxembourg",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Madagascar",
+    "colors": [
+      "white",
+      "red",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Malawi",
+    "colors": [
+      "black",
+      "red",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Malaysia",
+    "colors": [
+      "red",
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Maldives",
+    "colors": [
+      "red",
+      "green",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Mali",
+    "colors": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Malta",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Marshall Islands",
+    "colors": [
+      "blue",
+      "white",
+      "orange"
+    ],
+    "continent": "Oceania",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Mauritania",
+    "colors": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Mauritius",
+    "colors": [
+      "red",
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Mexico",
+    "colors": [
+      "green",
+      "white",
+      "red"
+    ],
+    "continent": "North America",
+    "familiarity": 5,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Micronesia",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 1,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Moldova",
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Monaco",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Mongolia",
+    "colors": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Montenegro",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Morocco",
+    "colors": [
+      "red",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Mozambique",
+    "colors": [
+      "green",
+      "black",
+      "yellow",
+      "white",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Myanmar",
+    "colors": [
+      "yellow",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Namibia",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Nauru",
+    "colors": [
+      "blue",
+      "yellow",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 1,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Nepal",
+    "colors": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Netherlands",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "New Zealand",
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Nicaragua",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Niger",
+    "colors": [
+      "orange",
+      "white",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Nigeria",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 1
+  },
+  {
+    "country": "North Korea",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "North Macedonia",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Norway",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Oman",
+    "colors": [
+      "white",
+      "red",
+      "green"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Pakistan",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Palau",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Oceania",
+    "familiarity": 2,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Palestine",
+    "colors": [
+      "black",
+      "white",
+      "green",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Panama",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "North America",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Papua New Guinea",
+    "colors": [
+      "red",
+      "black",
+      "yellow",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Paraguay",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "South America",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Peru",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "South America",
+    "familiarity": 4,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Philippines",
+    "colors": [
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Poland",
+    "colors": [
+      "white",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Portugal",
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Qatar",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Republic of the Congo",
+    "colors": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Romania",
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Russia",
+    "colors": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Rwanda",
+    "colors": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "colors": [
+      "green",
+      "red",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 1,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Saint Lucia",
+    "colors": [
+      "blue",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "continent": "North America",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "colors": [
+      "blue",
+      "yellow",
+      "green"
+    ],
+    "continent": "North America",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Samoa",
+    "colors": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "San Marino",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Saudi Arabia",
+    "colors": [
+      "green",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Senegal",
+    "colors": [
+      "green",
+      "yellow",
+      "red"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Serbia",
+    "colors": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Seychelles",
+    "colors": [
+      "blue",
+      "yellow",
+      "red",
+      "white",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Sierra Leone",
+    "colors": [
+      "green",
+      "white",
+      "blue"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Singapore",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Slovakia",
+    "colors": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Slovenia",
+    "colors": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "continent": "Europe",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Solomon Islands",
+    "colors": [
+      "blue",
+      "green",
+      "yellow",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Somalia",
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "South Africa",
+    "colors": [
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "white",
+      "black"
+    ],
+    "continent": "Africa",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "South Korea",
+    "colors": [
+      "white",
+      "red",
+      "blue",
+      "black"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "South Sudan",
+    "colors": [
+      "black",
+      "red",
+      "green",
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Spain",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Sri Lanka",
+    "colors": [
+      "red",
+      "yellow",
+      "orange",
+      "green"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Sudan",
+    "colors": [
+      "red",
+      "white",
+      "black",
+      "green"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Suriname",
+    "colors": [
+      "green",
+      "white",
+      "red",
+      "yellow"
+    ],
+    "continent": "South America",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Sweden",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Switzerland",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Syria",
+    "colors": [
+      "green",
+      "white",
+      "black",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "colors": [
+      "green",
+      "yellow",
+      "red",
+      "black"
+    ],
+    "continent": "Africa",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Tajikistan",
+    "colors": [
+      "red",
+      "white",
+      "green",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Tanzania",
+    "colors": [
+      "green",
+      "yellow",
+      "black",
+      "blue"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Thailand",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Timor-Leste",
+    "colors": [
+      "red",
+      "yellow",
+      "black",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 1,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Togo",
+    "colors": [
+      "green",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Tonga",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 2,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "colors": [
+      "red",
+      "white",
+      "black"
+    ],
+    "continent": "North America",
+    "familiarity": 3,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Tunisia",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Turkey",
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Turkmenistan",
+    "colors": [
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 2,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Tuvalu",
+    "colors": [
+      "blue",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania",
+    "familiarity": 1,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Uganda",
+    "colors": [
+      "black",
+      "yellow",
+      "red",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Ukraine",
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 1
+  },
+  {
+    "country": "United Arab Emirates",
+    "colors": [
+      "red",
+      "green",
+      "white",
+      "black"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "United Kingdom",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "Europe",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "United States",
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ],
+    "continent": "North America",
+    "familiarity": 5,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Uruguay",
+    "colors": [
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "continent": "South America",
+    "familiarity": 4,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Uzbekistan",
+    "colors": [
+      "blue",
+      "white",
+      "green",
+      "red"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Vanuatu",
+    "colors": [
+      "red",
+      "green",
+      "black",
+      "yellow"
+    ],
+    "continent": "Oceania",
+    "familiarity": 2,
+    "flag_complexity": 4
+  },
+  {
+    "country": "Vatican City",
+    "colors": [
+      "yellow",
+      "white"
+    ],
+    "continent": "Europe",
+    "familiarity": 4,
+    "flag_complexity": 5
+  },
+  {
+    "country": "Venezuela",
+    "colors": [
+      "yellow",
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "South America",
+    "familiarity": 5,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Vietnam",
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia",
+    "familiarity": 5,
+    "flag_complexity": 2
+  },
+  {
+    "country": "Yemen",
+    "colors": [
+      "red",
+      "white",
+      "black"
+    ],
+    "continent": "Asia",
+    "familiarity": 3,
+    "flag_complexity": 1
+  },
+  {
+    "country": "Zambia",
+    "colors": [
+      "green",
+      "red",
+      "black",
+      "orange"
+    ],
+    "continent": "Africa",
+    "familiarity": 2,
+    "flag_complexity": 3
+  },
+  {
+    "country": "Zimbabwe",
+    "colors": [
+      "green",
+      "yellow",
+      "red",
+      "black",
+      "white"
+    ],
+    "continent": "Africa",
+    "familiarity": 3,
+    "flag_complexity": 5
+  }
+]
