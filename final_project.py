@@ -95,3 +95,31 @@ def process_guess(guess_info, country_info):
     
     """
     
+    
+def calculate_rankings(game_results, player_records):
+    """
+    Calculate player scores based on difficulty level, number of attempts, and 
+    whether the player successfully guessed the country. Update player records, 
+    track their best scores, and organize players into a leaderboard.
+    
+    Sequence: Retrieve player records, calculate scores, update records, compare
+    player performances, and generate rankings.
+    
+    Iteration: Loop through game results to calculate scores and through player 
+    records to determine rankings.
+    
+    Conditional: Award points based on wins, attempts, and difficulty; update 
+    personal bests when scores improve; handle ties between players.
+
+    Args:
+        game_results (list): a list of dictionaries, containing player's names,
+        the difficulty level, the number of attempts used, and whether the 
+        player guessed the country correctly.
+        player_records (dict): a dictionary with player's names, their total 
+        scores, best score, and number of games they have played.
+        
+    Returns:
+        rankings (list): a list of scores from highest to lowest. 
+    """
+    pass
+     
