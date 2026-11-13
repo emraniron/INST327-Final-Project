@@ -17,3 +17,24 @@ def validate_guess(guess, country_database, previous_guesses):
         repeated, or unrecognized.
     """
     pass
+
+
+def eliminate_countries(possible_countries, previous_feedback):
+    """
+    Narrow down the list of possible countries using feedback from
+    previous guesses. Compare each remaining country against the known
+    color and continent clues, removing countries that contradict the
+    feedback.
+
+    Sequence:
+        Retrieve previous feedback, evaluate possible countries,
+        eliminate incompatible countries, and return the remaining list.
+
+    Iteration:
+        Loop through countries and previous clues to check compatibility.
+
+    Conditional:
+        Eliminate countries that contradict known color or continent
+        information and keep those that satisfy all clues.
+    """
+    pass
