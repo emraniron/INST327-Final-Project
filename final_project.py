@@ -38,3 +38,31 @@ def eliminate_countries(possible_countries, previous_feedback):
         information and keep those that satisfy all clues.
     """
     pass
+
+def guess_count(guesses_used: int,
+                max_guesses: int = 10) -> dict:
+    """
+    Updates the number of guesses a player has used and checks whether the
+    player has any tries left in the game.
+
+    The function adds the player's latest guess to the number of guesses used
+    so far and compares it with the maximum number of tries allowed. The
+    result can be used to show the player how many guesses remain and to end
+    the game once the 10 tries limit has been reached.
+
+    Args:
+        guesses_used (int): the number of guesses the player has already made
+            before the current guess.
+        max_guesses (int): the maximum number of guesses the player is
+            allowed to make. (Default: 10)
+
+    Returns:
+        dict: a dictionary containing the updated number of guesses used, the
+            number of guesses remaining, and whether the player has run out of
+            guesses.
+
+    Raises:
+        ValueError: if guesses_used is negative or if max_guesses is less
+            than 1.
+    """
+    pass
