@@ -1,4 +1,8 @@
-def validate_guess(guess, country_database, previous_guesses):
+import json
+
+
+previous_guesses = []
+def validate_guess(guess, previous_guesses):
     """
     Validate the player's country guess by checking the country
     database, identifying possible misspellings, and preventing
@@ -16,8 +20,19 @@ def validate_guess(guess, country_database, previous_guesses):
         Determine whether the guess is valid, misspelled,
         repeated, or unrecognized.
     """
-    pass
+    with open("flag_game_countries.json", "r", encoding="utf-8") as f:
+        country_database = json.load(f)  # loads the json into country_database
+        
+    n_guess = guess.strip().lower() # normalizes the guess
 
+    for country in country_database:
+        if n_guess == country["country"].lower():
+            if n_guess not in previous_guesses:
+                previous_guesses.append(n_guess)
+                return country["country"]
+            else:
+                return "Already Guessed lol"
+    return "Country not found"
 
 def eliminate_countries(possible_countries, previous_feedback):
     """
